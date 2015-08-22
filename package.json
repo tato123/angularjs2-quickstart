@@ -1,0 +1,17 @@
+{
+  "name": "angularjs2-quickstart",
+  "version": "1.0.0",
+  "description": "A quickstart project for angularjs2 projects",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "gulp postinstall"
+  },
+  "author": "Jonathan Fontanez <fontanezj1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}

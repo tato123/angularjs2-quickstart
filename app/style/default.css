@@ -1,0 +1,9 @@
+
+.zd-group {
+    display: block;
+    width: 200px;
+    min-height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+}
